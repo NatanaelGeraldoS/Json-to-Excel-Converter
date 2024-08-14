@@ -1,0 +1,1300 @@
+[
+    {
+        "Number": 1,
+        "IdSection": "028ccfcf-29d6-4c49-bbc1-a8fed12b2233",
+        "NameSection": "A",
+        "Description": "None",
+        "Questions": [
+            {
+                "Number": 1,
+                "IdQuestion": "f49eac48-98e7-42d3-91a2-a9b892e34ff1",
+                "QuestionText": "The teacher explains the objectives of the lesson as well as summarises the important points at the end.",
+                "UseDescription": "False",
+                "Description": "None",
+                "Type": "None",
+                "TypeValues": [],
+                "LikertValues": [],
+                "IsRequired": "True",
+                "RespondentAnswers": [
+                    {
+                        "FileValueAnswer": "None",
+                        "LikertValueAnswer": "None",
+                        "LikertLearningStudentAnswers": [
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "BN124968684",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "0660004150",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "BN125129486",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "1360619023",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            }
+                        ],
+                        "Number": 1,
+                        "Id": "None",
+                        "Value": "None"
+                    }
+                ]
+            },
+            {
+                "Number": 2,
+                "IdQuestion": "ea937aa9-4f1d-46b5-89de-1f8e2f134605",
+                "QuestionText": "The teacher uses different teaching strategies to integrate concepts that helped me understand the topic.",
+                "UseDescription": "False",
+                "Description": "None",
+                "Type": "None",
+                "TypeValues": [],
+                "LikertValues": [],
+                "IsRequired": "True",
+                "RespondentAnswers": [
+                    {
+                        "FileValueAnswer": "None",
+                        "LikertValueAnswer": "None",
+                        "LikertLearningStudentAnswers": [
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "391ff448-4410-4db1-a17f-0ce3dd5fb6e6",
+                                "Value": "1",
+                                "Perception": "Strongly Disagree",
+                                "Number": 1
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "BN124968684",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "0660004150",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "BN125129486",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "1360619023",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            }
+                        ],
+                        "Number": 2,
+                        "Id": "None",
+                        "Value": "None"
+                    }
+                ]
+            },
+            {
+                "Number": 3,
+                "IdQuestion": "0cf3b4d3-dd4b-426f-9432-8e1ad176faf5",
+                "QuestionText": "The teacher discusses content which are relevant to the topic.",
+                "UseDescription": "False",
+                "Description": "None",
+                "Type": "None",
+                "TypeValues": [],
+                "LikertValues": [],
+                "IsRequired": "True",
+                "RespondentAnswers": [
+                    {
+                        "FileValueAnswer": "None",
+                        "LikertValueAnswer": "None",
+                        "LikertLearningStudentAnswers": [
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "BN124968684",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "0660004150",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "BN125129486",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "1360619023",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            }
+                        ],
+                        "Number": 3,
+                        "Id": "None",
+                        "Value": "None"
+                    }
+                ]
+            },
+            {
+                "Number": 4,
+                "IdQuestion": "7eeff65f-b917-4cbe-889e-3e8db4f7ff6b",
+                "QuestionText": "The teacher gives opportunities to ask questions and explore how much I have understood the lesson.",
+                "UseDescription": "False",
+                "Description": "None",
+                "Type": "None",
+                "TypeValues": [],
+                "LikertValues": [],
+                "IsRequired": "True",
+                "RespondentAnswers": [
+                    {
+                        "FileValueAnswer": "None",
+                        "LikertValueAnswer": "None",
+                        "LikertLearningStudentAnswers": [
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "BN124968684",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "0660004150",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "BN125129486",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "1360619023",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            }
+                        ],
+                        "Number": 4,
+                        "Id": "None",
+                        "Value": "None"
+                    }
+                ]
+            },
+            {
+                "Number": 5,
+                "IdQuestion": "4e346b26-5784-4c4b-a1d5-5afb77e6da30",
+                "QuestionText": "The teacher keeps me productively engaged and makes full use of the allotted lesson time.",
+                "UseDescription": "False",
+                "Description": "None",
+                "Type": "None",
+                "TypeValues": [],
+                "LikertValues": [],
+                "IsRequired": "True",
+                "RespondentAnswers": [
+                    {
+                        "FileValueAnswer": "None",
+                        "LikertValueAnswer": "None",
+                        "LikertLearningStudentAnswers": [
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "BN124968684",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "0660004150",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "BN125129486",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "1360619023",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            }
+                        ],
+                        "Number": 5,
+                        "Id": "None",
+                        "Value": "None"
+                    }
+                ]
+            },
+            {
+                "Number": 6,
+                "IdQuestion": "c3e9acce-95e1-41fe-9aae-3c17c540c58b",
+                "QuestionText": "The teacher encourages interaction and collaboration amongst students.",
+                "UseDescription": "False",
+                "Description": "None",
+                "Type": "None",
+                "TypeValues": [],
+                "LikertValues": [],
+                "IsRequired": "True",
+                "RespondentAnswers": [
+                    {
+                        "FileValueAnswer": "None",
+                        "LikertValueAnswer": "None",
+                        "LikertLearningStudentAnswers": [
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "BN124968684",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "0660004150",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "BN125129486",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "1360619023",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            }
+                        ],
+                        "Number": 6,
+                        "Id": "None",
+                        "Value": "None"
+                    }
+                ]
+            },
+            {
+                "Number": 7,
+                "IdQuestion": "8ecd7f21-9512-4a6f-9a71-1c8e750b5362",
+                "QuestionText": "The teacher is available for consultation outside of the sessions.",
+                "UseDescription": "False",
+                "Description": "None",
+                "Type": "None",
+                "TypeValues": [],
+                "LikertValues": [],
+                "IsRequired": "True",
+                "RespondentAnswers": [
+                    {
+                        "FileValueAnswer": "None",
+                        "LikertValueAnswer": "None",
+                        "LikertLearningStudentAnswers": [
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "BN124968684",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "0660004150",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "BN125129486",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "1360619023",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            }
+                        ],
+                        "Number": 7,
+                        "Id": "None",
+                        "Value": "None"
+                    }
+                ]
+            },
+            {
+                "Number": 8,
+                "IdQuestion": "93f6496f-7cd8-42d7-8a06-28f7a0269a14",
+                "QuestionText": "The teacher clearly explains the criteria used to assess studentâ€™s work, such as assessment tasks and rubrics.",
+                "UseDescription": "False",
+                "Description": "None",
+                "Type": "None",
+                "TypeValues": [],
+                "LikertValues": [],
+                "IsRequired": "True",
+                "RespondentAnswers": [
+                    {
+                        "FileValueAnswer": "None",
+                        "LikertValueAnswer": "None",
+                        "LikertLearningStudentAnswers": [
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "BN124968684",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "0660004150",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "BN125129486",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "1360619023",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            }
+                        ],
+                        "Number": 8,
+                        "Id": "None",
+                        "Value": "None"
+                    }
+                ]
+            },
+            {
+                "Number": 9,
+                "IdQuestion": "aed6fbe4-ebc0-4451-af0e-c3664caaea58",
+                "QuestionText": "The teacher gives adequate and timely feedback on assignments.",
+                "UseDescription": "False",
+                "Description": "None",
+                "Type": "None",
+                "TypeValues": [],
+                "LikertValues": [],
+                "IsRequired": "True",
+                "RespondentAnswers": [
+                    {
+                        "FileValueAnswer": "None",
+                        "LikertValueAnswer": "None",
+                        "LikertLearningStudentAnswers": [
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "BN124968684",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660004150",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "BN125129486",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "1360619023",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            }
+                        ],
+                        "Number": 9,
+                        "Id": "None",
+                        "Value": "None"
+                    }
+                ]
+            },
+            {
+                "Number": 10,
+                "IdQuestion": "6de14cc7-b60f-4f8d-8810-2111b33ce1e8",
+                "QuestionText": "The teacher uses the English Language (except for IL/CL/Religion & Civics, national curriculum subjects) to teach at all times in a clear manner. ",
+                "UseDescription": "False",
+                "Description": "None",
+                "Type": "None",
+                "TypeValues": [],
+                "LikertValues": [],
+                "IsRequired": "True",
+                "RespondentAnswers": [
+                    {
+                        "FileValueAnswer": "None",
+                        "LikertValueAnswer": "None",
+                        "LikertLearningStudentAnswers": [
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "BN124968684",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                                "Value": "3",
+                                "Perception": "Somewhat Disagree",
+                                "Number": 3
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "0660004150",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                                "Value": "5",
+                                "Perception": "Agree",
+                                "Number": 5
+                            },
+                            {
+                                "IdUserTeacher": "BN125129486",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                                "Value": "2",
+                                "Perception": "Disagree",
+                                "Number": 2
+                            },
+                            {
+                                "IdUserTeacher": "1360619023",
+                                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                                "Value": "6",
+                                "Perception": "Strongly Agree",
+                                "Number": 6
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                                "Value": "4",
+                                "Perception": "Somewhat Agree",
+                                "Number": 4
+                            }
+                        ],
+                        "Number": 10,
+                        "Id": "None",
+                        "Value": "None"
+                    }
+                ]
+            }
+        ],
+        "Scores": [
+            {
+                "Number": 1,
+                "IdScore": "391ff448-4410-4db1-a17f-0ce3dd5fb6e6",
+                "Value": "1",
+                "Perception": "Strongly Disagree"
+            },
+            {
+                "Number": 2,
+                "IdScore": "55c2ea68-4ca1-488f-b196-12dfd1e1bda8",
+                "Value": "2",
+                "Perception": "Disagree"
+            },
+            {
+                "Number": 3,
+                "IdScore": "ff48cb7a-faeb-4e45-b4f4-b5a6fb6b66f7",
+                "Value": "3",
+                "Perception": "Somewhat Disagree"
+            },
+            {
+                "Number": 4,
+                "IdScore": "466e4659-aef3-4199-ad44-4aee7cc3edda",
+                "Value": "4",
+                "Perception": "Somewhat Agree"
+            },
+            {
+                "Number": 5,
+                "IdScore": "0c9dedc6-81b1-47b1-b1db-a9b6f5dbcc7f",
+                "Value": "5",
+                "Perception": "Agree"
+            },
+            {
+                "Number": 6,
+                "IdScore": "b0562738-2ee2-430d-8177-e8b566284d5f",
+                "Value": "6",
+                "Perception": "Strongly Agree"
+            }
+        ]
+    },
+    {
+        "Number": 2,
+        "IdSection": "9fcaf8bb-1721-40d0-902e-cadb5c6bdaf7",
+        "NameSection": "B",
+        "Description": "",
+        "Questions": [
+            {
+                "Number": 1,
+                "IdQuestion": "bfc5afc8-5648-4168-b870-6e68545bddc6",
+                "QuestionText": "Please feel free to write your comments about your teachers in the space provided. Indicate the name of teacher where it applies.\t",
+                "UseDescription": "False",
+                "Description": "None",
+                "Type": "None",
+                "TypeValues": [],
+                "LikertValues": [],
+                "IsRequired": "True",
+                "RespondentAnswers": [
+                    {
+                        "FileValueAnswer": "None",
+                        "LikertValueAnswer": "None",
+                        "LikertLearningStudentAnswers": [
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "None",
+                                "Value": "good",
+                                "Perception": "None",
+                                "Number": 1
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "None",
+                                "Value": "ok",
+                                "Perception": "None",
+                                "Number": 1
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "None",
+                                "Value": "baik",
+                                "Perception": "None",
+                                "Number": 1
+                            },
+                            {
+                                "IdUserTeacher": "BN124968684",
+                                "IdScore": "None",
+                                "Value": "iya",
+                                "Perception": "None",
+                                "Number": 1
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "None",
+                                "Value": "oh ok",
+                                "Perception": "None",
+                                "Number": 1
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "None",
+                                "Value": "ms-nya baik",
+                                "Perception": "None",
+                                "Number": 1
+                            },
+                            {
+                                "IdUserTeacher": "0660004150",
+                                "IdScore": "None",
+                                "Value": "ms-nya top",
+                                "Perception": "None",
+                                "Number": 1
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "None",
+                                "Value": "ms-nya cantik",
+                                "Perception": "None",
+                                "Number": 1
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "None",
+                                "Value": "ms-nya perhatian",
+                                "Perception": "None",
+                                "Number": 1
+                            },
+                            {
+                                "IdUserTeacher": "BN125129486",
+                                "IdScore": "None",
+                                "Value": "ms-nya pinter",
+                                "Perception": "None",
+                                "Number": 1
+                            },
+                            {
+                                "IdUserTeacher": "BN000963130",
+                                "IdScore": "None",
+                                "Value": "ms-nya gendut",
+                                "Perception": "None",
+                                "Number": 1
+                            },
+                            {
+                                "IdUserTeacher": "1360619023",
+                                "IdScore": "None",
+                                "Value": "ms-nya lucu",
+                                "Perception": "None",
+                                "Number": 1
+                            },
+                            {
+                                "IdUserTeacher": "0660003785",
+                                "IdScore": "None",
+                                "Value": "ms-nya gemoy",
+                                "Perception": "None",
+                                "Number": 1
+                            }
+                        ],
+                        "Number": 1,
+                        "Id": "None",
+                        "Value": "None"
+                    }
+                ]
+            }
+        ],
+        "Scores": []
+    }
+]
